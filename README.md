@@ -9,3 +9,6 @@ This repo contains server side programm for running blockchain on nodes.
 for configuring nodes look into config.java and respective fields. if you are running this project please remember this is prototype and it can run on 25 - 30  nodes. I havn't tried it on full scale yet.
 
 Database:- You will need MongoDB to save data from blockchain. create db called 'blockchain' in the MongoDB and collection called 'blocks'.
+
+Android-App.7z 
+  contains code for android client. client has login capability. you can create Batch of the products, Sell products to upper level in blockchain.
